@@ -1,7 +1,7 @@
 hue-cli
 =======
 
-Command Line Interface to the Philips Hue lighting system.
+Command Line Interface to the Philips Hue lighting system.  It was abandoned upstream, and I needed to fix a crash.
 
 # Installation
 To begin using, install the ruby gem (this requires ruby 1.9 and rubygems)
