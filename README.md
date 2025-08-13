@@ -1,3 +1,7 @@
+# Fuck GitHub. Codeberg repo at:
+https://codeberg.org/majick/hue-cli
+
+
 hue-cli
 =======
 
